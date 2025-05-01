@@ -1,0 +1,14 @@
+{
+  "configurations": [
+      {
+          "type": "java",
+          "name": "Launch CarRentUI",
+          "request": "launch",
+          "mainClass": "CarRentUI",
+          "classpath": [
+              ".",
+              "C:\\Users\\HP\\Desktop\\car_rent\\mysql-connector-j-9.3.0.jar"
+          ]
+      }
+  ]
+}
